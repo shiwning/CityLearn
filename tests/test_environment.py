@@ -6,7 +6,7 @@ from citylearn.citylearn import CityLearnEnv
 from citylearn.simulator import Simulator
 
 RESULT_FILEPATH = 'test_environment.pkl'
-schema = 'citylearn_challenge_2020_climate_zone_1'
+schema = 'citylearn_challenge_2022_phase_1'
 
 def main():
     # simulation
